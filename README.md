@@ -8,16 +8,16 @@
     <title>Meu portfólio</title>
   </head>
   <body>
-    <img src="img/avatar-perfil.png" alt="avatar da Ester" rcsset="">
-    <p>Eu sou Ester_</p>
+    <img src="img/avatar-perfil.png" alt="avatar da Ester" class="rounded-circle" width="150" height="150" rcsset="">
+    <p> class="lead"> Eu sou Ester_</p>
     <h1>Estudante</h1>
     <p>Estou cursando meu ultimo ano do ensino medio, sou da area de exatas, e faço curso de robotica e programação. </p>
     <p>Minhas Habilidades</p>
     <div>
-      <p>HTML</p>
-      <p>CSS</p>
-      <p>JavaScript</p>
-      <p>Scratch</p>
+      <p> class="badge bg-secondary">HTML</p>
+      <p> class="badge bg-secondary">CSS</p>
+      <p> class="badge bg-secondary">avaScript</p>
+      <p> class="badge bg-secondary">Scratch</p>
     </div>
   </body>
 </html>
