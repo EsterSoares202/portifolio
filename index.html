@@ -12,7 +12,7 @@
   <body>
     <header class="container text-center"></header>
     <img src="img/avatar-perfil.png" alt="avatar da Ester" class="rounded-circle" width="150" height="150" rcsset="">
-    <p>  class="lead">Eu sou Ester_</p>
+    <p class="lead">Eu sou Ester_</p>
     <h1>Estudante</h1>
     <p>Estou cursando meu ultimo ano do ensino medio, sou da area de exatas, e faço curso de robotica e programação. </p>
     <p>Minhas Habilidades</p>
