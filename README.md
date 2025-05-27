@@ -23,7 +23,7 @@
      <p class="badge bg-secondary">Scratch</p>
     </div>
   </header>
-  <main class="container">
+  <main class="container mt-5">
         <h2>Meus projetos</h2>
          <div class="row">
              <!-- Projeto 1 -->
