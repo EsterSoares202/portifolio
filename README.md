@@ -26,15 +26,51 @@
   <main class="container">
         <h2>Meus projetos</h2>
          <div class="row">
+             <!-- Projeto 1 -->
             <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
-                    <img src="..." class="card-img-top" alt="...">
+                <div class="card">
+                    <img src="img/projeto-1.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
                     <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                      <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <h5 class="card-title">Minha Biblioteca: Uma Webpage Personalizada</h5>
+                        <p class="card-text">Este projeto é uma página web que apresenta uma lista dos meus livros
+                            favoritos, incluindo informações sobre os autores, datas de publicação e links para compra
+                            na Amazon. A página é estilizada com CSS para uma visualização agradável e usa fontes
+                            externas do Google Fonts.
+                        </p>
+                        <button type="button" class="btn btn-link">Veja o projeto</button>
                     </div>
-                  </div>
+                </div>
+            </div>
+            <!-- Projeto 2 -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="img/projeto-2.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
+                    <div class="card-body">
+                        <h5 class="card-title">Decidindo o Futuro: Uma Jornada Interativa sobre a Inteligência
+                            Artificial</h5>
+                        <p class="card-text">Este projeto é um jogo interativo baseado em navegador que explora o
+                            impacto e as implicações da Inteligência Artificial (IA) na sociedade, permitindo que as
+                            pessoas jogadoras façam escolhas que influenciam o desenrolar de uma narrativa sobre o
+                            futuro da IA.</p>
+                        <button type="button" class="btn btn-link">Veja o projeto</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Projeto 3 -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="img/projeto-3.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
+                    <div class="card-body">
+                        <h5 class="card-title">Explorando o Universo: Uma Aventura Interativa em Astronomia com Scratch
+                        </h5>
+                        <p class="card-text">EEste projeto Scratch cria uma experiência interativa educativa sobre
+                            astronomia, permitindo aos usuários explorar informações sobre constelações, eclipses, e a
+                            forma da Terra através de cenários dinâmicos e diálogos informativos.
+                        </p>
+                        <button type="button" class="btn btn-link">Veja o projeto</button>
+                    </div>
+                </div>
             </div>
         </div>
 
