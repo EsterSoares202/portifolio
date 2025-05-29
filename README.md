@@ -18,7 +18,12 @@
     <p>Estou cursando meu ultimo ano do ensino medio, sou da area de exatas, e faço curso de robotica e programação. </p>
     <p>Minhas Habilidades</p>
     <div>
-  </header>
+       <p class="badge bg-secondary">HTML</p>
+            <p class="badge bg-secondary">CSS</p>
+            <p class="badge bg-secondary">JavaScript</p>
+            <p class="badge bg-secondary">Scratch</p>
+        </div>
+   </header>
     <main class="container mt-5">
         <h2>Meus projetos</h2>
         <div class="row">
@@ -52,7 +57,7 @@
                     </div>
                 </div>
             </div>
-             <!-- Projeto 3 -->
+           <!-- Projeto 3 -->
             <div class="col-md-4">
                 <div class="card">
                     <img src="img/projeto-3.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
@@ -68,7 +73,8 @@
                 </div>
             </div>
         </div>
-    </main>
+
+ </main>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
