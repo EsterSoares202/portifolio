@@ -56,7 +56,7 @@
                     </div>
                 </div>
             </div>
-           <!-- Projeto 3 -->
+            <!-- Projeto 3 -->
             <div class="col-md-4">
                 <div class="card">
                     <img src="img/projeto-3.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
@@ -73,7 +73,7 @@
             </div>
         </div>
 
- </main>
+    </main>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
