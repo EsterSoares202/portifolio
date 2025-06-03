@@ -77,12 +77,12 @@
    <footer class="container py-5">
         <h2>Entre em contato</h2>
         <div>
-            <a href="https://github.com/femascheti">GitHub</a>
+            <a href="https://github.com/EsterSoares202">GitHub</a>
         </div>
-        <p class="my-5 text-center">© Copyright 2024. Produzido por Fernanda Mascheti</p>
+        <p class="my-5 text-center">© Copyright 2024. Produzido por Ester Soares</p>
     </footer>
 
- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>
